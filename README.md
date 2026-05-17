@@ -1,4 +1,4 @@
-# Primeiro_repositorio
+# Primeiro repositório:
 Sou Ulisses e estou iniciando os meus estudos em Banco de Dados e Machine Learning no UniCeub. Comecei utilizando o Python básico e o SQL para a construção de banco de dados.
 
 # Habilidade extra:
